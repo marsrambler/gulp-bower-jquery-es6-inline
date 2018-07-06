@@ -1,0 +1,17 @@
+{
+  "name": "gulp-bower-jquery-es6",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "marsrambler@qq.com <Asdfg@123>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
